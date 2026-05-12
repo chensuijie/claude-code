@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Skill(commit-push-pr)",
+      "Bash(git checkout *)"
+    ]
+  }
+}
